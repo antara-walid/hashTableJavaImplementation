@@ -1,9 +1,9 @@
 package org.example;
 
 public class Cell {
-    int key ;
-    Object value;
-    Cell next;
+    private  int key ;
+    private Object value;
+     Cell next;
 
     //constructors
 
